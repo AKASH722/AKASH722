@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Java, Spring, SpringBoot, JavaFX, HTML, CSS🔭 I’m currently working on<br>💬 Ask me about java
 
+[![An image of @akash2906's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akash2906)](https://holopin.io/@akash2906)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@akashrai567) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akashrai29/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@akashrai4546) 
