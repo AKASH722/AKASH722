@@ -1,23 +1,99 @@
-# 💫 About Me:
-🌱 I’m currently learning Java, Spring, SpringBoot, JavaFX, HTML, CSS🔭 I’m currently working on<br>💬 Ask me about java
+<h1 align="left">Hi 👋! My name is Akash and I'm a CS Student from India</h1>
 
-[![An image of @akash2906's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akash2906)](https://holopin.io/@akash2906)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKASH722&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph" />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AKASH722&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph" />
+  <img width="12" />
+  <img src="https://streak-stats.demolab.com?user=AKASH722&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@akashrai567) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akashrai29/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@akashrai4546) 
+##
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Akash722&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akash722&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash722&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div >
+    <img src="https://github-profile-trophy.vercel.app?username=AKASH722&theme=dracula&margin-w=8" height="130" alt="trophy graph" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akash722&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🛠 Skills
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=idea" height="30" alt="intellijidea logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akash722&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📫 Connect with Me
+
+<div align="left">
+ <a href="https://www.linkedin.com/in/akashrai29/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+  <img width="10" />
+  <a href="https://x.com/akashrai4546" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
+  </a>
+  <img width="10" />
+  <a href="https://discord.com/users/akash_rai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
+  </a>
+  <img width="10" />
+  <a href="https://www.hackerrank.com/profile/akashrai4546" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo" />
+  </a>
+  <img width="10" />
+  <a href="https://www.instagram.com/akashrai567" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
+  </a>
+</div>
+
+## ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />  
+</div>
+
+#
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AKASH722/AKASH722/output/snake.svg" alt="Snake animation" height="130"/>
+
