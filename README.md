@@ -1,17 +1,10 @@
-<h1 align="left">Hi 👋! My name is Akash and I'm a CS Student from India</h1>
+<h2 align="left">Hi 👋! I'm Akash Rai, a Computer Science student from India, driven by innovation and tech!</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKASH722&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=AKASH722&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AKASH722&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <img width="12" />
-  <img src="https://streak-stats.demolab.com?user=AKASH722&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
-##
-
-<div >
-    <img src="https://github-profile-trophy.vercel.app?username=AKASH722&theme=dracula&margin-w=8" height="150" alt="trophy graph" />
 </div>
 
 ## 🛠 Skills
@@ -91,7 +84,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />  
 </div>
 
-#
+##
 
 <br clear="both">
 
