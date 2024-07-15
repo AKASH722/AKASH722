@@ -79,7 +79,13 @@
   </a>
 </div>
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />  
+</div>
+
+##
+<br clear="both">
+<div align="center">
+<img src="https://raw.githubusercontent.com/AKASH722/AKASH722/output/snake.svg" alt="Snake animation" />
 </div>
